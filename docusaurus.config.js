@@ -7,7 +7,8 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "brainzi",
-  tagline: "“when you give up, your dreams and everything else, they're gone.” – Naruto Uzumaki",
+  tagline:
+    "",
   url: "https://your-docusaurus-test-site.com",
   baseUrl: "/",
   onBrokenLinks: "throw",
@@ -69,6 +70,12 @@ const config = {
             label: "Contents",
           },
           {
+            type: "doc",
+            docId: "projects",
+            position: "left",
+            label: "Projects",
+          },
+          {
             href: "https://github.com/Grazinascito",
             label: "GitHub",
             position: "right",
@@ -83,7 +90,7 @@ const config = {
             items: [
               {
                 label: "Contents",
-                to: "/contents",
+                to: "/javascript",
               },
             ],
           },
