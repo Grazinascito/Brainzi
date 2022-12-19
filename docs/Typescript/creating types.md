@@ -50,9 +50,12 @@ A tuple is like an array with fixed number of elements. Some of react hooks retu
 const [state, setState] = useState(initialState);
 ```
 
-tuple of useState: `[state, setState]`
+tuple of useState: 
+```js
+[state, setState]
+```
 
-`useReduce` ex:
+tuple of useReduce:
 
 ```js
 const [state, dispatch] = useReducer(reducer, initialState);
