@@ -185,7 +185,7 @@ function isPerson(person: any): person is Person {
   return "id" in person && "name" in person;
 }
 ```
-`person is Person`is our type predicate
+`person is Person` is our type predicate
 
 ## type assertions
 
