@@ -1,3 +1,9 @@
+---
+title: type useReducer
+tags:
+  - types
+---
+
 ## basic useReducer
 
 ```js

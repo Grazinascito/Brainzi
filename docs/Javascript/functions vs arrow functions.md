@@ -12,9 +12,9 @@ function add = (a,b){
 so, arrow functions can be used in many of the same places as normal function.
 but here is some differences between them:
 
-1 arrow function dont have their own `this` value. They inherit the `this` value of the sourrounding context
-2 arrow functions dont have an `arguments` object. 
-3 arrow functions cannot be used as constructors.
+* 1 arrow function dont have their own `this` value. They inherit the `this` value of the sourrounding context
+* 2 arrow functions dont have an `arguments` object. 
+* 3 arrow functions cannot be used as constructors.
 
 here are some examples: 
 
