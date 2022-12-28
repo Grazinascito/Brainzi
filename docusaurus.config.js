@@ -8,7 +8,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
   title: "brainzi",
   tagline: "",
-  url: "https://grazinascito.github.io/Brainzi/",
+  url: "https://grazinascito.github.io",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
