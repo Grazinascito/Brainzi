@@ -10,6 +10,7 @@ const config = {
   tagline: "",
   url: "https://brainzi.com",
   baseUrl: "/",
+  onBrokenLinks: "ignore",
   onBrokenMarkdownLinks: "warn",
   favicon: "/img/brain.png",
 
