@@ -7,8 +7,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "brainzi",
-  tagline:
-    "",
+  tagline: "",
   url: "https://your-docusaurus-test-site.com",
   baseUrl: "/",
   onBrokenLinks: "throw",
@@ -54,24 +53,17 @@ const config = {
         title: "Brainzi",
         logo: {
           alt: "Brainzi",
-          src: "img/avocado.png",
+          src: "img/brain.png",
         },
         items: [
           {
             type: "doc",
             docId: "about",
             position: "left",
-            label: "About me",
-          },
-          {
-            type: "doc",
-            docId: "contents",
-            position: "left",
             label: "Contents",
           },
           {
-            type: "doc",
-            docId: "projects",
+            to: "/projects/",
             position: "left",
             label: "Projects",
           },
