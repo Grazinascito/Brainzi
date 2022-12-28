@@ -10,7 +10,6 @@ const config = {
   tagline: "",
   url: "https://grazinascito.github.io",
   baseUrl: "/",
-  onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "/img/brain.png",
 
