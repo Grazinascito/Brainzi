@@ -4,6 +4,7 @@ title: About me
 tags:
   - about
   - myself
+slug: /
 ---
 
 # About
