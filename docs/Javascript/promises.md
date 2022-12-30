@@ -1,0 +1,1 @@
+Promises allow for asynchronous development by linearizing with callbacks
