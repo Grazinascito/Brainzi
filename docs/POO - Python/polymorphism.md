@@ -6,7 +6,7 @@ polymorphism is useful for make the code manageable.
 
 #### example:
 
-![class poly](../../static/img/classpoly.PNG)
+![class poly](../../static/img/classpoly.png)
 
 #### in terms of code:
 
