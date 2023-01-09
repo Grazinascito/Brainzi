@@ -1,5 +1,5 @@
 we can define polymorphism as a bunch of shapes with different properties
-![shapes image](../../static/img/shapes.PNG)
+![shapes image](../../static/img/shapes.png)
 
 It occurs when we have many classes that are related to each other by inheritance.
 polymorphism is useful for make the code manageable.
