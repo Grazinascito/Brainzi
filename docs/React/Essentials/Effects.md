@@ -1,0 +1,3 @@
+## useEffect vs useLayoutEffect
+
+useEffect has a short delay after the layout and paint phase of the browser. For most side effects, this shold be okay. But there are situations, which it is necessary synchronously run side effects. To deal with that, we have the `useLayoutEffect()`. It works almost identically to the `useEffect()`, but the difference is that the `useLayoutEffect()` is executed synchronously and runs just after all DOM mutations have finished, without delay
